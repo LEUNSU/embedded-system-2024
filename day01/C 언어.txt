@@ -1,1 +1,11 @@
-C 언어
+현재 위치 pwd
+파란색 글씨 - 폴더, 하얀색 글씨 - 파일
+mkdir : 새로운 디렉토리를 생성
+rm : remove 
+rm -rf 파일이름 : 해당 파일 제거
+ls : list 확인
+ls -a : 숨겨져 있는 파일까지 확인
+ls -l : 상세하게 보여줄 때
+clear : 화면 지우기
+cd : change directory
+cd .. : 상위 디렉토리로 빠져 나올 때
